@@ -1,7 +1,7 @@
 # Привет! Сегодня я расскажу как получить значок активного разработчика в дискорде
 ![Alt-Developer Badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREt6DJ1OVMmDZCze67sft2tRlgaBSR1Ifyf97F8zxUqQ&s)
 
-## Примечание! ГитХаб не может принимать больше 100 файлов. У меня их очень много. Я не стал их загружать в этот репозиторий повторно. Переходим по ссылке (https://github.com/toptipus/activedeveloper) и скачиваем все файлы отсюда.
+## Примечание! ГитХаб не может принимать больше 100 файлов. У меня их очень много. Я не стал их загружать в этот репозиторий повторно. Переходим по ссылке (https://github.com/toptipus/activedeveloper/archive/refs/heads/main.zip) и скачиваем все файлы отсюда.
 
 ### 1. Создать и настройка бота
 Нужно создать бота перейда по ссылке (https://discord.com/developers/applications). Нажимаем "New Applications", пишем название и ставим галочку.
