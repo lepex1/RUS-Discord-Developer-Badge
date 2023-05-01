@@ -48,7 +48,9 @@
 ![Alt-start bot](https://i.imgur.com/JcxGRaM.png)
 
 Переходим в чат вашего сервера и пишем команду "/ping". Бот вам ответит "pong".
+
 ![Alt-start bot](https://i.imgur.com/vI54904.png)
 
 ### 6. Получение значка
 Чтобы получить значок вам надо перейти по ссылке (https://discord.com/developers/active-developer) и нажать кнопку по середине. Процесс получения занимает от 24 часов
+![Alt-start bot](https://i.imgur.com/BBroFT0.png)
